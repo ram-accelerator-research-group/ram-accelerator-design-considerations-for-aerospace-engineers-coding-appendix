@@ -9,10 +9,10 @@ This is the first release candidate for the MATLAB code extracted from the Codin
 - File inventory in both CSV and JSON formats.
 - Extraction notes and the raw `pdftotext -layout` source used for reconstruction.
 - Citation metadata in `CITATION.cff`.
+- MIT License.
 
 ## Known Limitations
 
-- Distributed under the MIT License.
 - `alttemp2.mat` and `altpress2.mat` are referenced by Chapter 1 routines but are not included in the thesis PDF extraction.
 - Several Chapter 1 scripts rely on REFPROP and may need local path updates before running.
 - The extracted code preserves thesis appendix logic and has not yet received a full MATLAB validation pass.

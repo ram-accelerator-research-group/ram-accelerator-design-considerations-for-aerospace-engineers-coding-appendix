@@ -10,3 +10,4 @@ All notable changes to this repository will be documented in this file.
 - Added `manifest.csv` and `manifest.json` with appendix IDs, titles, paths, and line counts.
 - Added extraction notes and reproducibility materials under `extraction/`.
 - Documented missing external MATLAB data files and REFPROP portability requirements.
+- Distributed the repository under the MIT License.
