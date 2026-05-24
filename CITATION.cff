@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the thesis and this repository."
+title: "Ram Accelerator Thesis MATLAB Code"
+authors:
+  - family-names: "McGibboney"
+    given-names: "Conor Stewart"
+version: "0.1.0"
+date-released: "2026-05-24"
+repository-code: "https://github.com/ram-accelerator-research-group/ram-accelerator-design-considerations-for-aerospace-engineers-coding-appendix"
+abstract: "MATLAB code extracted from the Coding Appendices of Ram Accelerator Design Considerations for Aerospace Engineers."
+references:
+  - type: thesis
+    title: "Ram Accelerator Design Considerations for Aerospace Engineers"
+    authors:
+      - family-names: "McGibboney"
+        given-names: "Conor Stewart"
+    year: 2023
+    institution:
+      name: "Southeastern Louisiana University"
+    doi: "10.13140/RG.2.2.23186.02248/1"

@@ -1,0 +1,91 @@
+appendix,directory,section_id,section_title,filename,path,line_count,last_pdf_line_number
+1,src/chapter1,CA1.a,Billig Diagram Plotter,billig_diagram.m,src/chapter1/billig_diagram.m,359,359
+1,src/chapter1,CA1.b,Cool Down Air to Vapor Stagnation Temperature Enthalpy Change,integrate_precooled_air_Cp.m,src/chapter1/integrate_precooled_air_Cp.m,195,195
+1,src/chapter1,CA1.c,Find Temperature for Given Enthalpies and Pressures,find_T_given_P_for_H.m,src/chapter1/find_T_given_P_for_H.m,74,74
+1,src/chapter1,CA1.d,Mach Number at Altitude Finder,MachCalc2.m,src/chapter1/MachCalc2.m,34,34
+1,src/chapter1,CA1.e,Intake Heat Flux Calculator,HFcalc2.m,src/chapter1/HFcalc2.m,101,101
+1,src/chapter1,CA1.f,Differential Heat Flux Per Unit Area,HFntgrnd.m,src/chapter1/HFntgrnd.m,33,33
+1,src/chapter1,CA1.g,Keep Range Only Function,kro.m,src/chapter1/kro.m,70,70
+1,src/chapter1,CA1.h,Condensation Ratio Performance Calculator,lace_cr_calc_2.m,src/chapter1/lace_cr_calc_2.m,222,222
+1,src/chapter1,CA1.i,Animated Billig Plotter,billig_anim_3.m,src/chapter1/billig_anim_3.m,500,500
+1,src/chapter1,CA1.k,Frontend ACES Function,aces_cr_calc_5.m,src/chapter1/aces_cr_calc_5.m,239,239
+1,src/chapter1,CA1.l,Air-Breathing Vehicle's Flight Profile,const_mass_flux_flight_profile_2.m,src/chapter1/const_mass_flux_flight_profile_2.m,71,71
+1,src/chapter1,CA1.m,Atmospheric Temperature Data Lookup,TempAltCS6.m,src/chapter1/TempAltCS6.m,44,44
+1,src/chapter1,CA1.n,Atmospheric Pressure Data Lookup,BarForm2.m,src/chapter1/BarForm2.m,46,46
+1,src/chapter1,CA1.o,Mach Numbers that Correspond to the Flight Conditions,MachCalc3.m,src/chapter1/MachCalc3.m,50,50
+1,src/chapter1,CA1.p,Calculate Stagnation Temperatures,StagTemp.m,src/chapter1/StagTemp.m,14,14
+1,src/chapter1,CA1.q,Calculate Stagnation Pressures,StagPress.m,src/chapter1/StagPress.m,14,14
+1,src/chapter1,CA1.r,Temperature of the Precooled Air After air/N2 Heat Exchanger,T_intermediate_calc_4.m,src/chapter1/T_intermediate_calc_4.m,287,287
+1,src/chapter1,CA1.s,Amount of Enthalpy Needs to be Removed from Air to Liquefy It,liquefy_air.m,src/chapter1/liquefy_air.m,68,68
+1,src/chapter1,CA1.t,Integrate the Constant-Pressure Heat Capacity of Parahydrogen,integrate_paraH2_Pcrit_Cp_3.m,src/chapter1/integrate_paraH2_Pcrit_Cp_3.m,111,111
+1,src/chapter1,CA1.u,ACES Animation,Cp_air_Cp_paraH2_anim.m,src/chapter1/Cp_air_Cp_paraH2_anim.m,150,150
+2,src/chapter2,CA2.a,Model General Gun Behavior for Nitroglycerin,gun_calc_SC_ideal.m,src/chapter2/gun_calc_SC_ideal.m,682,682
+2,src/chapter2,CA2.b,Maxwell Boltzmann Probability Distributions,Maxwell_Boltzmann_1D_molar_mass_abs_temp_vx_vec.m,src/chapter2/Maxwell_Boltzmann_1D_molar_mass_abs_temp_vx_vec.m,43,43
+2,src/chapter2,CA2.c,Calculate Length of Barrel of Prelauncher Stage of a Ram Accelerator,PPIG_gun_barrel_length.m,src/chapter2/PPIG_gun_barrel_length.m,34,34
+2,src/chapter2,CA2.d,Calculate Section Lengths A Ram Accelerator in Thermally Choked Mode and Oblique Detonation Mode,shell_w_linearly_varying_P.m,src/chapter2/shell_w_linearly_varying_P.m,27,27
+3,src/chapter3,CA3.a,Stagnation temperature function for when M = V2 / c2,StagTempExpanded.m,src/chapter3/StagTempExpanded.m,15,15
+3,src/chapter3,CA3.b,Lowering the freestream temperature plot,lowering_freestream_temp.m,src/chapter3/lowering_freestream_temp.m,20,20
+3,src/chapter3,CA3.c,Adiabatic Flame Temperature Calculator,adiabatic_flame_temperature_calc_O2_CH4_Ludwig.m,src/chapter3/adiabatic_flame_temperature_calc_O2_CH4_Ludwig.m,150,150
+5,src/chapter5,CA5.a,Kantrowitz Area Ratio Calculator,Kantrowitz5.m,src/chapter5/Kantrowitz5.m,36,36
+5,src/chapter5,CA5.b,Isentropic Area Ratio Calculator,Isentropic_Area_Ratio_calc.m,src/chapter5/Isentropic_Area_Ratio_calc.m,27,27
+5,src/chapter5,CA5.c,Ram Accelerator Projectile Throat to Bore Area Ratio Calculator,Ram_Area_Ratio_calc.m,src/chapter5/Ram_Area_Ratio_calc.m,25,25
+5,src/chapter5,CA5.d,Isentropic Area Ratio 2D Busemann Geometry Plots,inlet_throat_plots_isentropic.m,src/chapter5/inlet_throat_plots_isentropic.m,63,63
+5,src/chapter5,CA5.e,Throat Radius Calculator,r_throat_calc.m,src/chapter5/r_throat_calc.m,8,8
+5,src/chapter5,CA5.f,Kantrowitz Ratio 2D Busemann Geometry Plots,inlet_throat_plots_kantrowitz2.m,src/chapter5/inlet_throat_plots_kantrowitz2.m,59,59
+5,src/chapter5,CA5.g,Given θshock find θcone,given_theta_shock_find_theta_cone_4.m,src/chapter5/given_theta_shock_find_theta_cone_4.m,141,141
+5,src/chapter5,CA5.h,Given θcone find θshock,given_supersonic_cone_find_shock_4.m,src/chapter5/given_supersonic_cone_find_shock_4.m,257,257
+5,src/chapter5,CA5.i,Find Delta and M2 Behind Cone Shock,delta_m2_behind_cone_shock.m,src/chapter5/delta_m2_behind_cone_shock.m,56,56
+5,src/chapter5,CA5.j,Find the Nondimensional Velocity of Flow Immediately Behind an Oblique Shock,V_prime_r_theta.m,src/chapter5/V_prime_r_theta.m,47,47
+5,src/chapter5,CA5.k,Determine The Velocity Components of The Supersonic Flow Over a Quasi- Infinite Cone,find_v_primes_behind_shock_6.m,src/chapter5/find_v_primes_behind_shock_6.m,70,70
+5,src/chapter5,CA5.l,Expression of the Taylor-Maccoll Equation,taylor_maccoll_3.m,src/chapter5/taylor_maccoll_3.m,94,94
+5,src/chapter5,CA5.m,Find M2 Behind an Oblique Shock,m2_behind_cone_shock.m,src/chapter5/m2_behind_cone_shock.m,57,57
+5,src/chapter5,CA5.n,Find The M2 Deflection Angle Behind an Oblique Shockwave,delta_behind_cone_shock.m,src/chapter5/delta_behind_cone_shock.m,39,39
+5,src/chapter5,CA5.o,Stagnation Temperature Calculator,StagTemp.m,src/chapter5/StagTemp.m,16,16
+5,src/chapter5,CA5.p,Stagnation Pressure Calculator,StagPress.m,src/chapter5/StagPress.m,18,18
+5,src/chapter5,CA5.q,Taylor-Maccoll Oblique Shock Relations Model,tm_plotter_25_curved_shock_intersection.m,src/chapter5/tm_plotter_25_curved_shock_intersection.m,1166,1166
+5,src/chapter5,CA5.r,V Prime Function,V_prime_sys.m,src/chapter5/V_prime_sys.m,11,11
+5,src/chapter5,CA5.s,Find Mach Numbers in System,Mach_sys.m,src/chapter5/Mach_sys.m,12,12
+5,src/chapter5,CA5.t,Find System Temperatures,actual_temp_relationship.m,src/chapter5/actual_temp_relationship.m,19,19
+5,src/chapter5,CA5.u,Aid for Finding Points in First Ray After Shockwave,y_delta.m,src/chapter5/y_delta.m,8,8
+5,src/chapter5,CA5.v,M2 Calculator,Mach_2_2nd_shock.m,src/chapter5/Mach_2_2nd_shock.m,24,24
+5,src/chapter5,CA5.w,βnew Calculator,beta_new_calc.m,src/chapter5/beta_new_calc.m,36,36
+5,src/chapter5,CA5.x,Taylor-Maccoll Oblique Shock Relations Busemann Dimensions,TM_Busemann_Dimensions.m,src/chapter5/TM_Busemann_Dimensions.m,92,92
+5,src/chapter5,CA5.y,Taylor-Maccoll Toroid Volume Calculator,toroid_volume_calc.m,src/chapter5/toroid_volume_calc.m,22,22
+5,src/chapter5,CA5.z,Kantrowitz Toroid Volume Calculator,toroid_volume_calc_cone_half_angle.m,src/chapter5/toroid_volume_calc_cone_half_angle.m,25,25
+5,src/chapter5,CA5.aa,Volume Iterations to Satisfy Kantrowitz Limit and the Taylor-Maccoll Oblique Shock Relations,TM_kantro12.m,src/chapter5/TM_kantro12.m,77,77
+6,src/chapter6,CA6.a,Convective Heat Transfer Calculation,convective_heat_flux.m,src/chapter6/convective_heat_flux.m,94,94
+6,src/chapter6,CA6.b,Efficiency of Radiative Heat Transfer Process for Busemann Toroid That Meets Kantrowitz Ratio Requirements with Internal Hyperbolic Toroid Filled With CubeSats,kantrowitz_hiroshima_ram_tube.m,src/chapter6/kantrowitz_hiroshima_ram_tube.m,127,127
+6,src/chapter6,CA6.c,Efficiency of Radiative Heat Transfer Process for Busemann Toroid That Meets Isentropic Ratio Requirements with Internal Hyperbolic Toroid,isentropic_hiroshima_ram_tube.m,src/chapter6/isentropic_hiroshima_ram_tube.m,142,142
+6,src/chapter6,CA6.d,Construct Meshgrid Matrices for Busemann Toroid,Busemann_toroid_7.m,src/chapter6/Busemann_toroid_7.m,230,230
+6,src/chapter6,CA6.e,Construct Hyperbolic Toroid Inside Busemann Toroid,hyperbolic_toroid_for_Busemann_11.m,src/chapter6/hyperbolic_toroid_for_Busemann_11.m,665,665
+6,src/chapter6,CA6.e,Construct Hyperbolic Toroid Inside Busemann Toroid,hyperbola_in_right_triangle_4.m,src/chapter6/hyperbola_in_right_triangle_4.m,154,154
+6,src/chapter6,CA6.f,Complementary Points Equidistant From Origin,A_and_C_equidistant_from_O.m,src/chapter6/A_and_C_equidistant_from_O.m,34,34
+6,src/chapter6,CA6.g,Hyperbola Generator,hyperbola.m,src/chapter6/hyperbola.m,20,20
+6,src/chapter6,CA6.h,Find Largest Quadrilateral in Hyperbolic Toroid,largest_quadrilateral_in_hyperbolic_toroid.m,src/chapter6/largest_quadrilateral_in_hyperbolic_toroid.m,136,136
+6,src/chapter6,CA6.i,Find Largest Circle in Hyperbolic Toroid,largest_circle_in_hyperbolic_toroid.m,src/chapter6/largest_circle_in_hyperbolic_toroid.m,111,111
+6,src/chapter6,CA6.j,Create Ring of Boxes Inside Hyperbolic Toroid,create_ring_of_boxes_7.m,src/chapter6/create_ring_of_boxes_7.m,693,693
+6,src/chapter6,CA6.k,Monte Carlo View Factor Analysis Between Two Obstructed Surfaces,Monte_Carlo_view_factor_obstructed_fix_par_2.m,src/chapter6/Monte_Carlo_view_factor_obstructed_fix_par_2.m,996,996
+6,src/chapter6,CA6.l,Monte Carlo Unobstructed View Factor Calculator,Monte_Carlo_view_factor_27.m,src/chapter6/Monte_Carlo_view_factor_27.m,609,609
+6,src/chapter6,CA6.m,Sobol Quadrilateral Point Pairs Generator,quadrilateral_pairs_select.m,src/chapter6/quadrilateral_pairs_select.m,266,266
+6,src/chapter6,CA6.n,Generate Quasi-Randomly Selected Vectors of Adjacent Points on a Surface using Sobol-set Based Routine,aug_sobol_select_8.m,src/chapter6/aug_sobol_select_8.m,267,267
+6,src/chapter6,CA6.o,Differential View Factor Calculator with Three Normal Orientation Checks,diff_view_factor_8.m,src/chapter6/diff_view_factor_8.m,654,654
+6,src/chapter6,CA6.p,"Meshgrid X,Y,Z Surface Points to Area",surf_to_area.m,src/chapter6/surf_to_area.m,88,88
+6,src/chapter6,CA6.q,Bretschneider Calculation Routine,Bretschneider.m,src/chapter6/Bretschneider.m,49,49
+6,src/chapter6,CA6.r,Probabilistic Point Pair Selector,probabilistic_n_point_pairs_select_w_obstruction_3.m,src/chapter6/probabilistic_n_point_pairs_select_w_obstruction_3.m,498,498
+6,src/chapter6,CA6.s,Augmented Sobol-set Matrix Probabilistic Weight Assigner,Sobol_learning_system_3.m,src/chapter6/Sobol_learning_system_3.m,134,134
+6,src/chapter6,CA6.t,Check if Ray is Obstructed by a Surface,is_ray_obstructed_by_surface_4.m,src/chapter6/is_ray_obstructed_by_surface_4.m,556,556
+6,src/chapter6,CA6.u,Validate Ray Obstruction Data,validate_is_ray_obstructed_by_surface.m,src/chapter6/validate_is_ray_obstructed_by_surface.m,230,230
+6,src/chapter6,CA6.v,Make and Expand Truth Matrix,make_and_expand_truth_matrix.m,src/chapter6/make_and_expand_truth_matrix.m,183,183
+6,src/chapter6,CA6.w,Scan Meshgrids for Intersection,scan_meshgrids_for_intersection.m,src/chapter6/scan_meshgrids_for_intersection.m,160,160
+6,src/chapter6,CA6.x,Find Intersection of Two Lines,line_line_intersection.m,src/chapter6/line_line_intersection.m,21,21
+6,src/chapter6,CA6.y,Rotation Checks for Obstructed Rays,double_check_if_ray_obstructed.m,src/chapter6/double_check_if_ray_obstructed.m,143,143
+6,src/chapter6,CA6.z,Cross Product Calculator,cross_product.m,src/chapter6/cross_product.m,18,18
+6,src/chapter6,CA6.aa,Dot Product Calculator,dot_product.m,src/chapter6/dot_product.m,10,10
+6,src/chapter6,CA6.bb,Find Where a Line Intersects a Plane,line_intersects_plane.m,src/chapter6/line_intersects_plane.m,150,150
+6,src/chapter6,CA6.cc,Functions for Finding Magnitude,magnitude.m,src/chapter6/magnitude.m,15,15
+6,src/chapter6,CA6.cc,Functions for Finding Magnitude,magnitude_for_matrices.m,src/chapter6/magnitude_for_matrices.m,15,15
+6,src/chapter6,CA6.dd,Right Triangle with Quasi Hyperbola,right_triangle_with_quasi_hyperbola.m,src/chapter6/right_triangle_with_quasi_hyperbola.m,107,107
+6,src/chapter6,CA6.ee,Square Annular Toroid Symmetric Around the Z-axis,square_annular_toroid.m,src/chapter6/square_annular_toroid.m,103,103
+6,src/chapter6,CA6.ff,Draw Circular Toroid,circular_toroid.m,src/chapter6/circular_toroid.m,94,94
+6,src/chapter6,CA6.gg,Plot View Factors from Specified Monte Carlo Run,plot_Monte_Carlo_obstructed_view_factor_stuff.m,src/chapter6/plot_Monte_Carlo_obstructed_view_factor_stuff.m,213,213
+7,src/chapter7,CA7.a,Calculate Torque on Frustrum,integrated_torque_on_frustum_as_fxn_of_z_offset.m,src/chapter7/integrated_torque_on_frustum_as_fxn_of_z_offset.m,50,50
