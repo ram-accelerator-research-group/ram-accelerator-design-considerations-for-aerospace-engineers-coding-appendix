@@ -145,18 +145,10 @@ Several Chapter 1 routines call NIST REFPROP via `refpropm` and include Windows-
 
 The extraction process removed PDF line numbers and joined visual line wraps. It did **not** rewrite algorithms, modernize MATLAB style, or validate scientific results. Review and test all code before public release.
 
-## Suggested first GitHub commit
+## Repository status
 
-```bash
-git init
-git add .
-git commit -m "Extract MATLAB code from thesis coding appendices"
-git branch -M main
-# Replace <repo-name> with the repository you create under the group organization:
-git remote add origin git@github.com:ram-accelerator-research-group/<repo-name>.git
-git push -u origin main
-```
+Initial public release: `v0.1.0`.
 
 ## Licensing
 
-No open-source license has been selected in this extraction bundle. Add a `LICENSE` file before public release if you want others to have explicit reuse rights.
+This repository is distributed under the MIT License. See `LICENSE`.

@@ -2,7 +2,7 @@
 
 Before making the GitHub repository public:
 
-- Choose an open-source license and add it as `LICENSE`.
+- Confirm the selected MIT License text in `LICENSE`.
 - Add or regenerate missing MATLAB data files: `alttemp2.mat` and `altpress2.mat`.
 - Confirm REFPROP / `refpropm` installation instructions for the target platform.
 - Replace hardcoded Windows REFPROP paths if the repository should run on Linux/macOS.
